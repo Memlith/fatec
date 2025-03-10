@@ -18,13 +18,6 @@ class Aluno:
 # criando objeto
 aluno1 = Aluno(1, "Carlos")
 
-# criando lista de objs
-# alunos = [
-#     Aluno(12, "Caio"),
-#     Aluno(29, "Pedro"),
-#     Aluno(24, "Raul"),
-# ]
-
 # criando dicionario de alunos
 alunos = {
     12: Aluno(12, "Caio"),
