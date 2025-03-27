@@ -1,0 +1,43 @@
+// programa 1
+
+int main()
+{
+  float nota1, nota2, nota3, nota4, media;
+  printf("Digite a nota 1: ");
+  scanf("%f", &nota1);
+  printf("Digite a nota 2: ");
+  scanf("%f", &nota2);
+  printf("Digite a nota 3: ");
+  scanf("%f", &nota3);
+  printf("Digite a nota 4: ");
+  scanf("%f", &nota4);
+  media = (nota1 + nota2 + nota3 + nota4) / 4;
+  printf("A media das notas = %f", media);
+  return 0;
+}
+
+// programa 2
+
+int main()
+{
+  int num, ao_cubo;
+  printf("Digite um número que deseja saber o cubo: ");
+  scanf("%i", &num);
+  ao_cubo = num * num * num;
+  printf("O cubo de %i = %i", num, ao_cubo);
+  return 0;
+}
+
+// programa 3
+
+int main()
+{
+  float base, altura, area;
+  printf("Digite a base do retangulo: ");
+  scanf("%f", &base);
+  printf("Digite a altura do retangulo: ");
+  scanf("%f", &altura);
+  area = base * altura;
+  printf("A area do retangulo = %f", area);
+  return 0;
+}
