@@ -1,9 +1,6 @@
 # FATEC REPO
 
-``<?php
-  echo "Hello World!";
-  ?>
-``
+``"Hello World!"´´
 
 ---
 
