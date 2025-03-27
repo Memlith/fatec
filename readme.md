@@ -1,7 +1,6 @@
-# FATEC DSM REPO
+# FATEC REPO
 
-``
-<?php
+``<?php
   echo "Hello World!";
   ?>
 ``
